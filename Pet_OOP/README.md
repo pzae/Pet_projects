@@ -1,4 +1,4 @@
-# Pet-OOP
+# Pet_OOP
 
 ## Инструкция к репозиторию:
 * `src/custom_optuna.py` - библиотека с оптимизированным классом `CustomOptuna`.
