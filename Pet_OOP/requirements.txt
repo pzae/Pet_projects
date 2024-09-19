@@ -1,0 +1,14 @@
+catboost==1.2.1
+feature_engine==1.6.2
+imbalanced_learn==0.12.3
+imblearn==0.0
+ipython==8.12.3
+lightgbm==4.5.0
+matplotlib==3.7.2
+numpy==2.1.1
+optuna==3.6.1
+pandas==2.2.2
+scikit_learn==1.4.1.post1
+seaborn==0.13.2
+tqdm==4.66.1
+xgboost==2.1.1
